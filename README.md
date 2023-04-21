@@ -16,9 +16,10 @@
 
 <!-- Coder Uncle Pic -->
 <div id="header" align="center">
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+<!-- ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) -->
 
-<!-- <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/> -->
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
+<!-- <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="300"/> -->
 </div>
 
 <!-- Trophies -->
