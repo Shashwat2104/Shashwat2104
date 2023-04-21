@@ -36,7 +36,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👯I collaborated for **[MY>TV.com](https://github.com/Shashwat2104/brainy-sidewalk-2900)**
+- 👯I collaborated for **[BabyBloom.com](https://github.com/rajeshkumar7678/luxuriant-power-1482)**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://Shashwat2104.github.io/)**
 
