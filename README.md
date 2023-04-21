@@ -27,7 +27,7 @@
  <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Shashwat2104&label=Profile%20views&color=0e75b6&style=flat" alt="Shashwat2104" /> </p>
 <!-- <p align="center"> <a href="https://twitter.com/Shashwat2104" target="blank"><img src="https://img.shields.io/twitter/follow/Shashwat2104?logo=twitter&style=for-the-badge" alt="Shashwat2104" /></a> </p> -->
-<p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=Shashwat2104&theme=monokai" alt="Shashwat2104" /></a> </p>
+<p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=Shashwat2104&theme=radical" alt="Shashwat2104" /></a> </p>
  <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
 <img src="assets/gifs/star.gif" width="30px">&nbsp;**_Talking about Personal Stuffs:_**
@@ -114,7 +114,7 @@
   <a href="mailto:shashwatmahender2104@gmail.com">
     <img align="center" alt="Shashwat @Mail" width="50px" src="assets/handles/gmail.svg" />&nbsp;
   </a>
-  <a href="https://www.linkedin.com/in/Shashwat1994k/">
+  <a href="https://www.linkedin.com/in/shashwat-mahendra-214598163/">
     <img align="center" alt="FShashwat @LinkedIN" width="50px" src="assets/handles/linkedin.svg" />&nbsp;
   </a>
   <a href="https://discord.com/channels/@me">
