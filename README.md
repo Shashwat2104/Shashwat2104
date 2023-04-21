@@ -20,7 +20,7 @@
 <div id="header" align="center">
 
 <!-- <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" /> -->
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
+<img src="https://shorturl.at/gJ125" width="300"/>
 </div>
 
 <!-- Trophies -->
