@@ -20,11 +20,11 @@
 </div>
 
 <!-- Trophies -->
-<hr>
+ <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Shashwat2104&label=Profile%20views&color=0e75b6&style=flat" alt="Shashwat2104" /> </p>
 <!-- <p align="center"> <a href="https://twitter.com/Shashwat2104" target="blank"><img src="https://img.shields.io/twitter/follow/Shashwat2104?logo=twitter&style=for-the-badge" alt="Shashwat2104" /></a> </p> -->
 <p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=Shashwat2104&theme=monokai" alt="Shashwat2104" /></a> </p>
-<hr>
+ <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
 <img src="assets/gifs/star.gif" width="30px">&nbsp;**_Talking about Personal Stuffs:_**
 
@@ -43,7 +43,7 @@
 - 📄 Know about my experiences **<a href="https://drive.google.com/file/d/1xtiOhBLRyPXV1ylkJ2AT7gk4SCm9TBra/view?usp=sharing">Resume</a>**
 
 - ⚡ Fun fact is **< I have did 1200+ hrs of Coding / 790+ Commits / 5+ Projects / 100+ hrs of Soft Skill Classes />**
-<hr>
+  <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
 <!---------------------------------------------------------------------------------------------------------------------- ISSUE -->
 <!--  <p align="center">
@@ -71,7 +71,7 @@
 <img src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/AWS-Dark.svg" alt="aws" width="50" height="50"/>
 </p>
-<hr>
+ <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
 <!-- Tools -->
  <h3 align="center">Tools Known:</h3>
@@ -87,7 +87,7 @@
    <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Postman.svg" alt="postman" width="50px"/>
   <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Replit-Dark.svg" width="50px" />&nbsp;
 </p>
-<hr>
+ <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
 <h3 align="center">Connect with me:</h3>
 <p align = "center">
@@ -122,7 +122,7 @@
 </p>
 
 <!-- Git -->
-<hr>
+ <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
   <p><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Shashwat2104&theme=radical&mode=weekly" />
@@ -138,6 +138,7 @@
   </a></p> -->
     <p><a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a></p>
+   <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 </div>
 <!-- Coffee -->
 <h3 align="left">Support:</h3>
@@ -145,5 +146,5 @@
  </p>
 <!-- Footer -->
 <div align="center"><img align="center" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="100%"  /></div>
-<hr>
+ <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <img src="/resources/waves.svg?tr=rt-180" width="100%" height="150">
