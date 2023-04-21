@@ -16,7 +16,9 @@
 
 <!-- Coder Uncle Pic -->
 <div id="header" align="center">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+
+<!-- <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/> -->
 </div>
 
 <!-- Trophies -->
@@ -146,6 +148,8 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+ <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
+
 ### 😂 Random Dev Meme
 
 <img src="https://rm.up.railway.app/" width="512px"/>
@@ -154,7 +158,6 @@
 
 <!-- [![](https://visitcount.itsvg.in/api?id=shashwat2104&icon=2&color=1)](https://visitcount.itsvg.in) -->
 
- <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <!-- Coffee -->
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Shashwat"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/Shashwat" /></a>
