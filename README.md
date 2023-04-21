@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+
 <!-- Hello Message -->
 <h1 align="center">
   𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜<img src="assets/gifs/Earth.gif" width="24px">/>! <img src="assets/gifs/Hi.gif" width="30px">
@@ -16,10 +18,9 @@
 
 <!-- Coder Uncle Pic -->
 <div id="header" align="center">
-<!-- ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) -->
 
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
-<!-- <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="300"/> -->
+<!-- <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" /> -->
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="300"/>
 </div>
 
 <!-- Trophies -->
