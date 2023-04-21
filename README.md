@@ -140,6 +140,19 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a></p>
    <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 </div>
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+
+<img src="https://rm.up.railway.app/" width="512px"/>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=shashwat2104&icon=2&color=1)](https://visitcount.itsvg.in)
+
 <!-- Coffee -->
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Shashwat"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/Shashwat" /></a>
