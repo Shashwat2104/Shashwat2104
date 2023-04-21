@@ -39,7 +39,7 @@
 
 - 👯I collaborated for **[BabyBloom.com](https://github.com/rajeshkumar7678/luxuriant-power-1482)**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://Shashwat2104.github.io/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://shashwat2104.github.io/)**
 
 <!-- - 💬 Ask me about **NodeJS, ExpressJS, MongoDB, JavaScript, CSS3, HTML5** -->
 
