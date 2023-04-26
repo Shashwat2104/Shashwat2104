@@ -101,16 +101,16 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align = "center">
-    <a href=""> 
+    <a href="https://stackoverflow.com/"> 
     <img align="center" alt="Shashwat @Mail" width="50px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" />&nbsp;
   </a>
-    <a href="">
+    <a href="https://codesandbox.io/">
     <img align="center" alt="Shashwat @Mail" width="50px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" />&nbsp;
   </a>
-    <a href="">
+    <!-- <a href=""> -->
     <img align="center" alt="Shashwat @Mail" width="50px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" />&nbsp;
-  </a>
-  <a href="">
+  <!-- </a> -->
+  <a href="https://www.youtube.com/">
     <img align="center" alt="Shashwat @Mail" width="50px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />&nbsp;
   </a> 
 <!--     <a href="" target="_blank" rel="noreferrer"> <img src="" alt="codepen" width="45" height="45"/> </a> -->
@@ -126,7 +126,7 @@
   <a href="https://discord.com/channels/@me">
     <img align="center" alt="Falguni @Twitter" width="50px" src="assets/handles/discord.png" />&nbsp;
   </a>
-  <a href="https://dev.to/Shashwat2104"> </a> 
+  <a href="https://dev.to/"> </a> 
     <img align="center" src="assets/handles/dev.png" alt="Falguni @DEV Profile" width="50px">&nbsp;
  
 </p>
