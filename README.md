@@ -127,9 +127,9 @@
   <a href="https://discord.com/channels/@me">
     <img align="center" alt="Falguni @Twitter" width="50px" src="assets/handles/discord.png" />&nbsp;
   </a>
-  <a href="https://dev.to/Shashwat2104">
+<!--   <a href="https://dev.to/Shashwat2104">
     <img align="center" src="assets/handles/dev.png" alt="Falguni @DEV Profile" width="50px">&nbsp;
-  </a>
+  </a> -->
 </p>
 
 <!-- Git -->
