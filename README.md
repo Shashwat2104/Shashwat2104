@@ -1,4 +1,3 @@
-
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 <head> <meta name="google-site-verification" content="64XxYROxwlZp8OZNH24wq2ct95jdXKIqO9Hz8pWBwis" /> <head/>
@@ -102,18 +101,18 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align = "center">
-    <a href="https://stackoverflow.com/users/20404264/Shashwat">
+    <a href=""> 
     <img align="center" alt="Shashwat @Mail" width="50px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" />&nbsp;
   </a>
-    <a href="https://codesandbox.io/u/Shashwat2104">
+    <a href="">
     <img align="center" alt="Shashwat @Mail" width="50px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" />&nbsp;
   </a>
-    <a href="https://medium.com/@Shashwat2104">
+    <a href="">
     <img align="center" alt="Shashwat @Mail" width="50px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" />&nbsp;
   </a>
-<!--     <a href="https://www.youtube.com/@Shashwat2104">
+  <a href="">
     <img align="center" alt="Shashwat @Mail" width="50px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />&nbsp;
-  </a> -->
+  </a> 
 <!--     <a href="" target="_blank" rel="noreferrer"> <img src="" alt="codepen" width="45" height="45"/> </a> -->
     <a href="mailto:shashwatmahender2104@gmail.com">
     <img align="center" alt="Shashwat @Mail" width="50px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CodePen-Dark.svg" />&nbsp;
@@ -127,9 +126,9 @@
   <a href="https://discord.com/channels/@me">
     <img align="center" alt="Falguni @Twitter" width="50px" src="assets/handles/discord.png" />&nbsp;
   </a>
-<!--   <a href="https://dev.to/Shashwat2104">
+  <a href="https://dev.to/Shashwat2104"> </a> 
     <img align="center" src="assets/handles/dev.png" alt="Falguni @DEV Profile" width="50px">&nbsp;
-  </a> -->
+ 
 </p>
 
 <!-- Git -->
@@ -144,9 +143,9 @@
   <p><a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwat2104&theme=radical" />
   </a></p>
-<!--   <p><a href="https://github.com/anuraghazra/convoychat">
+ <p><a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shashwat2104&theme=radical" />
-  </a></p> -->
+  </a></p> 
    <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
     <p><a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a></p>
@@ -159,11 +158,11 @@
 
  <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
-### 😂 Random Dev Meme
+<!-- ### 😂 Random Dev Meme
 
 <img src="https://rm.up.railway.app/" align="center" width="512px"/>
 
----
+--- -->
 
 <!-- [![](https://visitcount.itsvg.in/api?id=shashwat2104&icon=2&color=1)](https://visitcount.itsvg.in) -->
 
