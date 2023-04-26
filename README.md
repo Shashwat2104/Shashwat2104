@@ -48,7 +48,7 @@
 
 - 📫 How to reach me **shashwatmahender2104@gmail.com**
 
-- 📄 Know about my experiences **<a href="https://drive.google.com/file/d/1xtiOhBLRyPXV1ylkJ2AT7gk4SCm9TBra/view?usp=sharing">Resume</a>**
+- 📄 Know about my experiences **[RESUME](https://drive.google.com/file/d/1vUnDn2TfzVxrRndXScDOFJ6mx944LhBL/view)**
 
 - ⚡ Fun fact is **< I have did 1200+ hrs of Coding / 790+ Commits / 5+ Projects / 100+ hrs of Soft Skill Classes />**
   <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
