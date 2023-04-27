@@ -107,8 +107,8 @@
     <a href="https://codesandbox.io/">
     <img align="center" alt="Shashwat @Mail" width="50px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" />&nbsp;
   </a>
-    <!-- <a href=""> -->
-    <img align="center" alt="Shashwat @Mail" width="50px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" />&nbsp;
+    <a href="https://instagram.com/shashwat_mahendra">
+    <img align="center" alt="Shashwat @Mail" width="50px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />&nbsp;
   <!-- </a> -->
   <a href="https://www.youtube.com/">
     <img align="center" alt="Shashwat @Mail" width="50px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />&nbsp;
@@ -126,8 +126,8 @@
   <a href="https://discord.com/channels/@me">
     <img align="center" alt="Falguni @Twitter" width="50px" src="assets/handles/discord.png" />&nbsp;
   </a>
-  <a href="https://dev.to/"> </a> 
-    <img align="center" src="assets/handles/dev.png" alt="Falguni @DEV Profile" width="50px">&nbsp;
+  <a href="https://fb.com/shashwat.kumar.77"> </a> 
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Falguni @DEV Profile" width="50px">&nbsp;
  
 </p>
 
