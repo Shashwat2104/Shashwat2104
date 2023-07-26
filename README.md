@@ -21,7 +21,7 @@
 <!-- Coder Uncle Pic -->
 <div id="header" align="center">
 
-<!-- <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" /> -->
+
 <!-- <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--NZMLmld6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/me3nxdmslvhtffb2nn4c.gif" width="300"/> -->
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--NZMLmld6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/me3nxdmslvhtffb2nn4c.gif" />
 </div>
