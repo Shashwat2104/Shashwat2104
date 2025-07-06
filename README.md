@@ -39,7 +39,16 @@ Hi, I’m Shashwat Mahendra – a passionate Full Stack Developer, Tech Enthusia
 
 ![](https://github-readme-stats.vercel.app/api?username=Shashwat2104&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Shashwat2104&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwat2104&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwat2104&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/><br/>
+
+<!-- contribution graph inside GitHub stats section -->
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Shashwat2104&theme=react-dark" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Shashwat2104&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shashwat2104&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="Shashwat2104's contribution graph" />
+  </picture>
+</a>
 
 </div>
 
@@ -75,22 +84,81 @@ Hi, I’m Shashwat Mahendra – a passionate Full Stack Developer, Tech Enthusia
   <h2>🐍 Snake eating my contributions 🐍</h2>
   <br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Shashwat2104/Shashwat2104/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/Shashwat2104/Shashwat2104/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/Shashwat2104/Shashwat2104/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
   </picture>
-  <br />
-  <br />
+  <br /><br />
 </div>
 
 ---
 
-
-
----
-
+<!-- final contribution graph -->
 <div align="center">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Shashwat2104&theme=react-dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Shashwat2104&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shashwat2104&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="Shashwat2104's contribution graph" />
+    </picture>
+  </a>
+</div>
 
+<hr />
+
+<!-- repositories -->
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br />
+<!-- first row -->
+<div width="100%" align="center">
+  <!-- repo 1 -->
+  <a align="right" href="https://github.com/Shashwat2104/duolingo-clone" title="Duolingo Clone">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat2104&repo=duolingo-clone&theme=react&border_color=61dafb&border_radius=10.0" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat2104&repo=duolingo-clone&theme=graywhite&border_radius=10.0" />
+      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat2104&repo=duolingo-clone&theme=graywhite&border_radius=10.0" alt="Shashwat2104's repository stats - Duolingo Clone" />
+    </picture>
+  </a>
+
+  <!-- repo 2 -->
+  <a align="left" href="https://github.com/Shashwat2104/3d-portfolio" title="3D Portfolio">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat2104&repo=3d-portfolio&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat2104&repo=3d-portfolio&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat2104&repo=3d-portfolio&theme=graywhite&border_radius=10" alt="Shashwat2104's repository stats - 3D portfolio" />
+    </picture>
+  </a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+<!-- second row -->
+<div width="100%" align="center">
+  <!-- repo 3 -->
+  <a align="left" href="https://github.com/Shashwat2104/mern-admin" title="MERN Admin Dashboard">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat2104&repo=mern-admin&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat2104&repo=mern-admin&theme=graywhite&border_radius=10" />
+      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat2104&repo=mern-admin&theme=graywhite&border_radius=10" alt="Shashwat2104's repository stats - MERN Admin Dashboard" />
+    </picture>
+  </a>
+
+  <!-- repo 4 -->
+  <a align="right" href="https://github.com/Shashwat2104/brainwave" title="Brainwave SaaS Landing Page">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat2104&repo=brainwave&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat2104&repo=brainwave&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat2104&repo=brainwave&theme=graywhite&border_radius=10" alt="Shashwat2104's repository stats - Brainwave SaaS Landing Page" />
+    </picture>
+  </a>
+</div>
+
+<!-- space -->
+<br /><br /><br /><br /><br /><br />
+
+<!-- show more repos -->
+<h4 align="center">
+  <a href="https://github.com/Shashwat2104?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
 [![](https://visitcount.itsvg.in/api?id=Shashwat2104&icon=4&color=0)](https://visitcount.itsvg.in)
 
 </div>
