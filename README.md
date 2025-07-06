@@ -70,13 +70,30 @@ Hi, I’m Shashwat Mahendra – a passionate Full Stack Developer, Tech Enthusia
 
 ---
 
+<!-- snake graph -->
 <div align="center">
-  <h2>🎮 Pacman eating my contributions</h2>
+  <h2>🐍 Snake eating my contributions 🐍</h2>
+  <br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
   </picture>
+  <br />
+  <br />
+</div>
+
+---
+
+<!-- GitHub Stats -->
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Shashwat2104&show_icons=true&theme=radical&hide_border=false" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=Shashwat2104&show_icons=true&theme=default&border_color=61dafb" />
+      <img align="center" width="600" src="https://github-readme-stats.vercel.app/api?username=Shashwat2104&show_icons=true&theme=default&border_color=61dafb" alt="Shashwat2104's GitHub Stats" />
+    </picture>
+  </a>
 </div>
 
 ---
