@@ -148,6 +148,4 @@ Hi, I’m Shashwat Mahendra – a passionate Full Stack Developer, Tech Enthusia
 <h4 align="center">
   <a href="https://github.com/Shashwat2104?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-[![](https://visitcount.itsvg.in/api?id=Shashwat2104&icon=4&color=0)](https://visitcount.itsvg.in)
-
 </div>
