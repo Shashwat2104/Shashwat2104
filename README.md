@@ -96,47 +96,51 @@ Hi, I’m Shashwat Mahendra – a passionate Full Stack Developer, Tech Enthusia
 <hr />
 
 <!-- repositories -->
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<h2 align="center">👨‍💻 Featured Repositories 👨‍💻</h2>
 <br />
+
 <!-- first row -->
 <div width="100%" align="center">
-  <!-- repo 1 -->
-  <a align="right" href="https://github.com/Shashwat2104/duolingo-clone" title="Duolingo Clone">
+  
+  <!-- repo 1: Hirelytics – AI Interview Platform -->
+  <a align="right" href="https://github.com/Shashwat2104/AI-Interview-Platform" title="Hirelytics – AI Interview Platform">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat2104&repo=duolingo-clone&theme=react&border_color=61dafb&border_radius=10.0" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat2104&repo=duolingo-clone&theme=graywhite&border_radius=10.0" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat2104&repo=duolingo-clone&theme=graywhite&border_radius=10.0" alt="Shashwat2104's repository stats - Duolingo Clone" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat2104&repo=AI-Interview-Platform&theme=react&border_color=61dafb&border_radius=10.0" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat2104&repo=AI-Interview-Platform&theme=graywhite&border_radius=10.0" />
+      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat2104&repo=AI-Interview-Platform&theme=graywhite&border_radius=10.0" alt="Shashwat2104's repository stats - Hirelytics – AI Interview Platform" />
     </picture>
   </a>
 
-  <!-- repo 2 -->
-  <a align="left" href="https://github.com/Shashwat2104/3d-portfolio" title="3D Portfolio">
+  <!-- repo 2: Hinglish Havoc -->
+  <a align="left" href="https://github.com/Shashwat2104/HinglishHavoc" title="Hinglish Havoc – Culture-Driven Chat App">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat2104&repo=3d-portfolio&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat2104&repo=3d-portfolio&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat2104&repo=3d-portfolio&theme=graywhite&border_radius=10" alt="Shashwat2104's repository stats - 3D portfolio" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat2104&repo=HinglishHavoc&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat2104&repo=HinglishHavoc&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat2104&repo=HinglishHavoc&theme=graywhite&border_radius=10" alt="Shashwat2104's repository stats - Hinglish Havoc Chat App" />
     </picture>
   </a>
 </div>
-<br/><br/><br/><br/><br/><br/>
+
+<br /><br /><br /><br /><br /><br />
 
 <!-- second row -->
 <div width="100%" align="center">
-  <!-- repo 3 -->
-  <a align="left" href="https://github.com/Shashwat2104/mern-admin" title="MERN Admin Dashboard">
+  
+  <!-- repo 3: Secure Secret Sharing Platform -->
+  <a align="left" href="https://github.com/Shashwat2104/Secure-Secret-Sharing-Platform" title="Secure Secret Sharing Platform">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat2104&repo=mern-admin&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat2104&repo=mern-admin&theme=graywhite&border_radius=10" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat2104&repo=mern-admin&theme=graywhite&border_radius=10" alt="Shashwat2104's repository stats - MERN Admin Dashboard" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat2104&repo=Secure-Secret-Sharing-Platform&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat2104&repo=Secure-Secret-Sharing-Platform&theme=graywhite&border_radius=10" />
+      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat2104&repo=Secure-Secret-Sharing-Platform&theme=graywhite&border_radius=10" alt="Shashwat2104's repository stats - Secure Secret Sharing Platform" />
     </picture>
   </a>
 
-  <!-- repo 4 -->
-  <a align="right" href="https://github.com/Shashwat2104/brainwave" title="Brainwave SaaS Landing Page">
+  <!-- repo 4: LoopList – Collaborative Music Tool -->
+  <a align="right" href="https://github.com/Shashwat2104/LoopList" title="LoopList – Collaborative Music Loop Recorder">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat2104&repo=brainwave&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat2104&repo=brainwave&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat2104&repo=brainwave&theme=graywhite&border_radius=10" alt="Shashwat2104's repository stats - Brainwave SaaS Landing Page" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat2104&repo=LoopList&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat2104&repo=LoopList&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat2104&repo=LoopList&theme=graywhite&border_radius=10" alt="Shashwat2104's repository stats - LoopList – Collaborative Music App" />
     </picture>
   </a>
 </div>
@@ -146,6 +150,6 @@ Hi, I’m Shashwat Mahendra – a passionate Full Stack Developer, Tech Enthusia
 
 <!-- show more repos -->
 <h4 align="center">
-  <a href="https://github.com/Shashwat2104?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/Shashwat2104?tab=repositories" title="Show All Repositories">🔎 Show More Projects 🔍</a>
 </h4>
-</div>
+
