@@ -84,25 +84,14 @@ Hi, I’m Shashwat Mahendra – a passionate Full Stack Developer, Tech Enthusia
   <h2>🐍 Snake eating my contributions 🐍</h2>
   <br />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Shashwat2104/Shashwat2104/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/Shashwat2104/Shashwat2104/blob/output/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/Shashwat2104/Shashwat2104/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
   </picture>
   <br /><br />
 </div>
 
 ---
-
-<!-- final contribution graph -->
-<div align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Shashwat2104&theme=react-dark" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Shashwat2104&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shashwat2104&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="Shashwat2104's contribution graph" />
-    </picture>
-  </a>
-</div>
 
 <hr />
 
