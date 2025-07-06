@@ -85,16 +85,7 @@ Hi, I’m Shashwat Mahendra – a passionate Full Stack Developer, Tech Enthusia
 
 ---
 
-<!-- GitHub Stats -->
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Shashwat2104&show_icons=true&theme=radical&hide_border=false" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=Shashwat2104&show_icons=true&theme=default&border_color=61dafb" />
-      <img align="center" width="600" src="https://github-readme-stats.vercel.app/api?username=Shashwat2104&show_icons=true&theme=default&border_color=61dafb" alt="Shashwat2104's GitHub Stats" />
-    </picture>
-  </a>
-</div>
+
 
 ---
 
